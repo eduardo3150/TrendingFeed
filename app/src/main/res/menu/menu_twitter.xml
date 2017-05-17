@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/userTweets"
+        android:title="Mis Tweets"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/logoutButton"
+        android:title="Salir"
+        app:showAsAction="never"/>
+</menu>
